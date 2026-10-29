@@ -1,6 +1,8 @@
 # Podium
 
-Podium macht dein iPad oder iPhone zur Fernbedienung für **PowerPoint** und **Keynote** auf dem Mac: aktuelle und nächste Folie, Moderatornotizen, Timer und Redezeit, Laserpointer, Spotlight, Lupe und Stift direkt auf dem Beamer.
+Podium macht dein iPad oder iPhone zur Fernbedienung für **PowerPoint** und **Keynote** auf dem Mac: aktuelle und nächste Folie, Moderatornotizen, Timer und Redezeit, Laserpointer, Spotlight, Lupe und Stift direkt auf dem Beamer. Dazu ein weißes Blatt zum Skizzieren und Live-Kamera oder Foto vom iPad über der laufenden Präsentation.
+
+![Podium – alle Funktionen auf einen Blick](Podium-Funktionen.png)
 
 ## Mac-App herunterladen
 
